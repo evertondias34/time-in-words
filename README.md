@@ -7,4 +7,4 @@ Cria uma pasta em sua área de desenvolvimento, abra-a no terminal e execute o c
 
 ## Executar o projeto 
 
-Abra sua IDE e clique em run;
+Abra sua IDE e execute run ou pelo terminal, entre na pasta do projeto, entre em `executavel` e execute o comando: `java -jar time.jar`
