@@ -20,10 +20,6 @@ public class TimeInWord {
 
 	public static void main(String[] args) throws IOException {
 
-		// TODO Auto-generated method stub
-		// BufferedWriter bufferedWriter = new BufferedWriter(new
-		// FileWriter(System.getenv("OUTPUT_PATH")));
-
 		BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("time.out"));
 
 		System.out.println("*** CONVERT HOURS TO WORDS *** \n");
