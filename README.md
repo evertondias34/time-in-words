@@ -7,4 +7,5 @@ Cria uma pasta em sua área de desenvolvimento, abra-a no terminal e execute o c
 
 ## Executar o projeto 
 
-Abra sua IDE e execute run ou pelo terminal, entre na pasta do projeto, entre em `executavel` e execute o comando: `java -jar time.jar`
+Pela IDE: abra o projeto em sua IDE e execute em run(na aba superior ou clicando com botão direito e clicando em run;
+Pelo Terminal: entre na pasta em que clonou o projeto, entre na pasta `out` pelo terminal, execute o comando:`cd /artifacts/convertion_jar`  e execute o comando: `java -jar convertion.jar`
